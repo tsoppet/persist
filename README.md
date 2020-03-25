@@ -1,4 +1,4 @@
-# Persist
+# persist.io
 An exploration of Reading/Writing and Cryptography in GoLang.
 
 Most code in this package was taken from 
